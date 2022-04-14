@@ -1,5 +1,5 @@
-import Level2.문자열압축
+import Level2.*
 
 fun main(args: Array<String>) {
-    문자열압축().runSolution()
+    행렬테두리회전().runSolution()
 }
